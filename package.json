@@ -1,0 +1,14 @@
+{
+    "name": "deploy-example",
+    "version": "1.0.0",
+    "description": "Deploy example",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest tests"
+    },
+    "author": "Tsuhiko",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
